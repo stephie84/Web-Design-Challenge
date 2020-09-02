@@ -1,0 +1,28 @@
+
+
+
+body{
+    width: 100%;
+    min-height: 100%;
+    background-color: #B0E0E6;
+
+}
+
+h1, h2, h3{
+padding: 25px;    
+color: rgb(81, 175, 160);
+font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+.navbar-brand:hover{
+color: rgb(175, 175, 175);
+
+}
+
+
+p{
+color: darkblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
